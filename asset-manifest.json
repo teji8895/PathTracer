@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PathTracer/static/css/main.dcd5bdec.chunk.css",
+    "main.js": "/PathTracer/static/js/main.afeeb2fb.chunk.js",
+    "main.js.map": "/PathTracer/static/js/main.afeeb2fb.chunk.js.map",
+    "runtime-main.js": "/PathTracer/static/js/runtime-main.eb13383a.js",
+    "runtime-main.js.map": "/PathTracer/static/js/runtime-main.eb13383a.js.map",
+    "static/js/2.b39d96b0.chunk.js": "/PathTracer/static/js/2.b39d96b0.chunk.js",
+    "static/js/2.b39d96b0.chunk.js.map": "/PathTracer/static/js/2.b39d96b0.chunk.js.map",
+    "index.html": "/PathTracer/index.html",
+    "precache-manifest.23f10b249857c5f5baa74d612ab89969.js": "/PathTracer/precache-manifest.23f10b249857c5f5baa74d612ab89969.js",
+    "service-worker.js": "/PathTracer/service-worker.js",
+    "static/css/main.dcd5bdec.chunk.css.map": "/PathTracer/static/css/main.dcd5bdec.chunk.css.map",
+    "static/js/2.b39d96b0.chunk.js.LICENSE.txt": "/PathTracer/static/js/2.b39d96b0.chunk.js.LICENSE.txt",
+    "static/media/Node.css": "/PathTracer/static/media/end-target.894db968.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb13383a.js",
+    "static/js/2.b39d96b0.chunk.js",
+    "static/css/main.dcd5bdec.chunk.css",
+    "static/js/main.afeeb2fb.chunk.js"
+  ]
+}
