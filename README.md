@@ -1,5 +1,5 @@
 # PathTracer
-Visualize anything is so intresting. Spricially these working of Algorithms.
+Visualizing anything is so intresting. Spricially these working of Algorithms.
 Check out Visualization of different algorithm like:
 1. Dijkstra Algo
 2. DFS
